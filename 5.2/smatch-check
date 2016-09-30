@@ -1,0 +1,3 @@
+#!/bin/bash
+
+timeout -k 1 30 smatch -p=kernel "$@" |& grep -i " lock"
