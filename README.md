@@ -2,7 +2,7 @@
 
 This repository supports my paper submission to VMCAI 2017.
 
-If you think that something is missing, please open a pull request.
+If you think that something is missing, please open an issue.
 
 ## CIL formalization and inference algorithm
 
